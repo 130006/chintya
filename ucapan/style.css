@@ -50,7 +50,7 @@ h4 {
 .imgBox {
 	width: 100%;
 	height: 60%; /* Kontainer gambar mengambil 60% dari tinggi card */
-	position: relative;
+	position: absolute;
 	overflow: hidden; /* Gambar yang melebihi batas kontainer akan dipotong */
 }
 
